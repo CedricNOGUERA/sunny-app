@@ -1,0 +1,42 @@
+[
+    {
+      "deg": "S",
+      "name": "https://img.icons8.com/small/60/ffffff/circled-up.png",
+      "id": 5
+    },
+    {
+      "deg": "SW",
+      "name": "https://img.icons8.com/small/60/ffffff/circled-up-right.png",
+      "id": 6
+    },
+    {
+      "deg": "W",
+      "name": "https://img.icons8.com/small/12/ffffff/circled-right.png",
+      "id": 7
+    },
+    {
+      "deg": "NW",
+      "name": "https://img.icons8.com/small/60/ffffff/circled-down-right.png",
+      "id": 8
+    },
+    {
+      "deg": "N",
+      "name": "https://img.icons8.com/small/60/ffffff/circled-down.png",
+      "id": 1
+    },
+    {
+      "deg": "NE",
+      "name": "https://img.icons8.com/small/60/ffffff/circled-down-left.png",
+      "id": 2
+    },
+    {
+      "deg": "E",
+      "name": "https://img.icons8.com/small/60/ffffff/circled-left.png",
+      "id": 3
+    },
+    {
+      "deg": "SE",
+      "name": "https://img.icons8.com/small/60/ffffff/circled-up-left.png ",
+      "id": 4
+    }
+  ]
